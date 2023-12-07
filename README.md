@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is BALQIS NABILAH
 ======================================================================================================================================
 
-SECRH Student of UTM
---------------------
+1/SECRH Student of UTM
+----------------------
 
-I am Computer Network and Security student of UTM
+I am first year student of Universiti Teknologi Malaysia
 
 * 🌍  I'm based in Universiti Teknologi Malaysia, Johor Bahru, Johor
 * ✉️  You can contact me at [balqisnabilah@graduate.utm.my](mailto:balqisnabilah@graduate.utm.my)
-* 🧠  I'm learning Computer Network and Security
+* 🧠  I'm learning Computer Science majoring in Network and Security
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
