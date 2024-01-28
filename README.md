@@ -11,13 +11,33 @@ I am first year student of Universiti Teknologi Malaysia
 * 🧠  I'm learning Computer Science majoring in Network and Security
 * 🤝  I'm open to collaborating on Projects
 
+### Education
+<p><a href="https://www.utm.my/">Universiti Teknologi Malaysia</a>
+<br>Bachelor in Computer Science (Computer Networks and Security)
+<br>2023-2027</p>
+<p><a href="https://selangor.uitm.edu.my/index.php/ms/ucampuses/kampus-dengkil">Universiti Teknologi MARA (UiTM) Kampus Dengkil, Selangor</a>
+<br>Foundation in Engineering
+<br>2022-2023</p>
+
+### Position
+<p>- 1/SECRH First Year Student of Computer Networks and Security
+<br>- Actice member of Rakan Muda UTM 2023/2024
+<br>- Actice member of Kelab Kaunseling dan Kerjaya UTM 2023/2024</p>
+
 ### Skills
 
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 </p>
+<p>C and C++ languange, Arduino, Figma and Google Cloud</p>
 
+
+### Courses
+<p>SECRH Bachelor in Computer Science (Computer Networks and Security)</p>
+
+### Certificates
+<p>-</p>
 
 ### Socials
 
