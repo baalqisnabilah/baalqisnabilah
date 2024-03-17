@@ -21,8 +21,8 @@ I am first year student of Universiti Teknologi Malaysia
 
 ### Position
 <p>- 1/SECRH First Year Student of Computer Networks and Security
-<br>- Actice member of Rakan Muda UTM 2023/2024
-<br>- Actice member of Kelab Kaunseling dan Kerjaya UTM 2023/2024</p>
+<br>- Active member of Rakan Muda UTM 2023/2024
+<br>- Active member of Kelab Kaunseling dan Kerjaya UTM 2023/2024</p>
 
 ### Skills
 
